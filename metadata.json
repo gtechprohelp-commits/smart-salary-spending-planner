@@ -1,0 +1,6 @@
+{
+  "name": "Smart Salary Spending Planner",
+  "description": "Comprehensive offline salary, expense, debt manager, EMI calculator, savings goals, financial reports, and backup planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
